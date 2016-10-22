@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<?
+<?php
 # Primer ejemplo
 print <<<END
 Esta sintaxis se utiliza para mostrar múltiples líneas en una sola impresión, no olvidar de colocar un punto y coma al final!

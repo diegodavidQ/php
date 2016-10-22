@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<?
+<?php
 # Primer comentario
 # Segunda línea de comentario
 // Tercer comentario
